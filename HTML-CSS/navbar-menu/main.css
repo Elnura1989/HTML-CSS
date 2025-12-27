@@ -29,10 +29,10 @@ h3{
     margin-top: 50px;
     }
 img{
-    width: 17%;
-    height: 30%;
-    margin-left: 120px;
-    margin-top: 40px;
+    width: 25%;
+    height: 35%;
+    margin-left: 50px;
+    margin-top: 50px;
     object-fit: cover;
 }
 strong{
@@ -205,5 +205,6 @@ transition: translateY(6px);
   } 
 
  
+
 
 
