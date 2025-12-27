@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-origin: padding-box;
+}
+
+/* /* p, h3, div{
+   width: fit-content;
+   display: :inline;
+    height: 200px;
+}
+b{
+    width: 500px;
+}
+img{
+    width: 100px;
+    display: inline-block;
+} */
+
+/* div{
+    
+    background-image: url(https://www.jobboardfinder.com/news/wp-content/uploads/2017/09/ISTANBUL-UMRAH-TOUR-5-min.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 30%;
+    border-radius: 10%;
+
+
+}
+
+span{
+          display: block;
+   margin: 0 auto;
+width: fit-content;
+backdrop-filter: blur (20%);
+border-radius: 10px;
+background-color: #3636362b;
+padding-top: 15%;
+}
+
+h1, p{
+        display: inline;
+    color: white;
+    font-size: 70px; 
+     inset: 0;    
+   }
+h1{    
+    background-color: yellow;
+    color: black;
+    
+} */ 
+
+
+.box{
+    width: 250px;
+    height: 500px;
+    background-color: #252525;
+    margin: 100px auto;
+    padding-top: 10px;
+}
+
+.item{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin:  10px auto;
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
