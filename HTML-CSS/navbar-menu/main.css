@@ -45,7 +45,7 @@ strong{
 }
 p{
     position: absolute;
-    padding-left: 650px;
+    padding-left: 700px;
   top: 360px;
 font-size: 17px;
 color: rgb(245, 240, 240);
@@ -205,4 +205,5 @@ transition: translateY(6px);
   } 
 
  
+
 
