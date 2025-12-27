@@ -29,10 +29,10 @@ h3{
     margin-top: 50px;
     }
 img{
-    width: 30%;
-    height: 55%;
-    margin-left: 200px;
-    margin-top: 60px;
+    width: 20%;
+    height: 35%;
+    margin-left: 100px;
+    margin-top: 50px;
     object-fit: cover;
 }
 strong{
@@ -203,4 +203,5 @@ button3:active{
 inset: 1px 1px 6px rgb(230, 120, 120);
 transition: translateY(6px);
   } 
+
  
